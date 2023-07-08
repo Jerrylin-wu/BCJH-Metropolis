@@ -13,7 +13,7 @@
 // 如果是宴会模式，不用特别准，差两倍/一半以内都可以
 
 #define ITER_CHEF 100000   // 选择厨师时的迭代次数
-#define ITER_RECIPE 8000 // 对于每一组厨师，选择菜谱时的迭代次数
+#define ITER_RECIPE 80000 // 对于每一组厨师，选择菜谱时的迭代次数
 
 #define AVOID_CHEF_1 true
 #define AVOID_CHEF_2 true
